@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0jDhf5GQ/rA+wBU1vcAvjlWiEsLCtI8SJKFROXUqw0keFmM6WVKYucB2YiroPQeBbz9qIWgxth+57F4FMzYBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nory Db\\Desktop\\CRA integration\\CRA_Integration-master\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nory Db\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nory Db\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
